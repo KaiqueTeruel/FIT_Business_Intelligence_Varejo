@@ -18,13 +18,14 @@ O objetivo é transformar dados brutos em **insights estratégicos**, por meio d
 
 ---
 
-## 📁 Sobre a Base de Dados
+## 📁 Sobre a Base de Dados + Figma
 
-**📌 Nome:** Retail Business Intelligence Dataset  
-**📌 Fonte:** Kaggle  
-**📌 Link:** https://www.kaggle.com/datasets/guimacrlh/dataset-vendas
-**📌 Tipo de dados:** Transações de vendas no varejo  
-**📌 Formato:** `.csv` (importável no Power BI)
+- 📌 **Nome:** Retail Business Intelligence Dataset
+- 📌 **Fonte:** Kaggle
+- 📌 **Link:** https://www.kaggle.com/datasets/guimacrlh/dataset-vendas
+- 📌 **Tipo de dados:** Transações de vendas no varejo
+- 📌 **Formato:** `.csv` (importável no Power BI)
+- 📌 **Figma:** https://www.figma.com/design/f4MAXX1yYe0cjltkLQlpPA/Dashboards-%7C-Retail-Business-Intelligence?node-id=0-1&p=f&t=PcTLwr2zmB6zo4Y8-0
 
 Esta base contém informações de vendas, datas, produtos, clientes e campanhas que permitem análises completas de performance comercial.
 
@@ -32,10 +33,13 @@ Esta base contém informações de vendas, datas, produtos, clientes e campanhas
 
 ## 📊 Dashboards Incluídos
 
-### 🧭 1. **Titulo 01**
-- x
-- x
-- x
+### 🧭 1. **Analítico de Vendas**
+- Bignumber - Receita Total
+- Bignumber - Quantidade de Vendas Total
+- Gráfico de Barras - Receita Total x Safra
+- Gráfico de Barras - Receita Total x Ano
+- Gráfico de Barras - Top 5 Produtos
+- Gráfico de Pizza - Quantidade de Vendas x Região
 
 ### 📦 2. **Titulo 02**
 - x
@@ -50,41 +54,6 @@ Esta base contém informações de vendas, datas, produtos, clientes e campanhas
 - x
 - x
 - x
-
----
-
-## 🧠 Metodologia
-
-### 1. Titulo 01
-- x
-- x
-- x
-
-### 2. Titulo 02
-- x
-- x
-- x
-
-### 3. Titulo 03
-- x
-- x
-- x
-
-### 4. Titulo 04
-- x
-- x
-- x
-
----
-
-## 📌 Principais Métricas
-
-Algumas das métricas calculadas e analisadas:
-
-- 📍 **Métrica 01**  
-- 📍 **Métrica 02*  
-- 📍 **Métrica 03**  
-- 📍 **Métrica 04**  
 
 ---
 
@@ -112,7 +81,7 @@ Este projeto pode responder perguntas como:
 
 ## 📥 Como Baixar a Base
 
-A base utilizada está disponível no **Kaggle**. Pesquise por *Retail Business Intelligence Dataset* para baixar os arquivos `.csv`.
+A base utilizada está disponível no **Kaggle** ou **Neste Repositório**. Pesquise por *Retail Business Intelligence Dataset* para baixar os arquivos `.csv`.
 Link de acesso: https://www.kaggle.com/datasets/guimacrlh/dataset-vendas
 
 ---
