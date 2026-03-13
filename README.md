@@ -22,6 +22,7 @@ O objetivo é transformar dados brutos em **insights estratégicos**, por meio d
 
 **📌 Nome:** Retail Business Intelligence Dataset  
 **📌 Fonte:** Kaggle  
+**📌 Link:** https://www.kaggle.com/datasets/guimacrlh/dataset-vendas
 **📌 Tipo de dados:** Transações de vendas no varejo  
 **📌 Formato:** `.csv` (importável no Power BI)
 
@@ -112,6 +113,7 @@ Este projeto pode responder perguntas como:
 ## 📥 Como Baixar a Base
 
 A base utilizada está disponível no **Kaggle**. Pesquise por *Retail Business Intelligence Dataset* para baixar os arquivos `.csv`.
+Link de acesso: https://www.kaggle.com/datasets/guimacrlh/dataset-vendas
 
 ---
 
